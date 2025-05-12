@@ -1,0 +1,5 @@
+{
+    "input_shape": 197,
+    "max_words": 10000,
+    "embedding_dim": 100
+}
